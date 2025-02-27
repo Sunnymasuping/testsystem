@@ -44,7 +44,5 @@ categories:
 5. 用指定的字符串替换某一子串。
 6. 编写一个测试主函数，测试所实现的功能。
 
-## 代码仓库
 
-[GitHub 项目地址](https://github.com/Sunnymasuping/storetextlab)
 ```
